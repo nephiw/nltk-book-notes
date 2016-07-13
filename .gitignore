@@ -1,2 +1,4 @@
 # IPython Notebook
 .ipynb_checkpoints
+__pycache__
+*.swp
